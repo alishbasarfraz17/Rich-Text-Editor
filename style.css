@@ -1,0 +1,21 @@
+.text-editor-header{
+    background-color: rgba(143, 175, 201, 0.582);
+}
+.content{
+    height: 400px;
+    outline: none;
+    overflow: auto;
+}
+.card{
+box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.span{
+    position: absolute;
+    right: 20px;
+    top: 5px;
+}
